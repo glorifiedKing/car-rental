@@ -28,7 +28,7 @@ export default {
     }
     else if(this.$token)
     {
-
+        this.alert = false;
     }
 
   },
