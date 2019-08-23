@@ -80,7 +80,7 @@
            dark
          >
            <v-card-text class="white--text">
-             <div class="headline mb-2">Pick from</div>
+             <div class="headline mb-2">Return to</div>
              ....
            </v-card-text>
 
